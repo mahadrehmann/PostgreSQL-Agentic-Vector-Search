@@ -2,7 +2,12 @@ langchain
 langchain-community
 langchain-text-splitters
 psycopg2
+psycopg2-binary
 python-dotenv
 tiktoken
 openai
 pgvector
+phidata
+
+langchain-postgres
+langchain-openai
